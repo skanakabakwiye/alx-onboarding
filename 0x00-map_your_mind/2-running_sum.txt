@@ -1,0 +1,6 @@
+Prompt: Calculate a running sum
+let S = 0
+for every input “x”  S = 0 + x
+if x <0
+print S
+else S = 0 + x
