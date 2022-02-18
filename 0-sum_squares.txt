@@ -1,6 +1,0 @@
-Prompt: calculate the sum of squares of given input of numbers
-let M = 0
-let S = (0 + M)2
-for every input number “x”  
-M = M + x / 2
-S = S + (x+M)2
