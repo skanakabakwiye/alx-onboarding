@@ -1,2 +1,2 @@
 # alx-onboarding
-contains submissions for the ALX-SE Program
+contains submissions for the ALX-SE Program.
